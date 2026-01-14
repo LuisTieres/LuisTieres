@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+programmer;I+have+already+created+two+systems;For+the+Hospital+at+UFMG;+I+used+pyhton+and+HTML)](https://git.io/typing-svg)
 
-I am a certified Electrotechnician from [CEFET-MG](https://www.curvelo.cefetmg.br/) and currently pursuing my 6th semester in Systems Engineering at [(UFMG)](https://www.ufmg.br), one of Brazil's top universities. I have also completed an exchange program in Computer Science in Finland, where I enhanced my analytical, technical, and programming skills through practical and research-oriented experiences.
+I am a certified Electrotechnician from [CEFET-MG](https://www.curvelo.cefetmg.br/) and currently pursuing my 8th semester in Systems Engineering at [(UFMG)](https://www.ufmg.br), one of Brazil's top universities. I have also completed an exchange program in Computer Science in Finland, where I enhanced my analytical, technical, and programming skills through practical and research-oriented experiences.
 
 <img align="right" alt="" height="300px" width="300px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJ1dzZtMDVrNzluanhxaW5ybTJqdWF1bDRubHNrc2trMGpuN2xnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0Jwn0I22a3XHgPaft/giphy.gif">
 
