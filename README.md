@@ -23,7 +23,7 @@ I am a certified Electrotechnician from [CEFET-MG](https://www.curvelo.cefetmg.b
 
 
 ### Languages and Technologies
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,py,ts)](https://skillicons.dev)
 
 ### Frameworks and Libraries
 <a href="https://skillicons.dev">
