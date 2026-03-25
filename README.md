@@ -7,7 +7,7 @@
 
 I am a certified Electrotechnician from [CEFET-MG](https://www.curvelo.cefetmg.br/) and currently pursuing my 8th semester in Systems Engineering at [(UFMG)](https://www.ufmg.br), one of Brazil's top universities. I have also completed an exchange program in Computer Science in Finland, where I enhanced my analytical, technical, and programming skills through practical and research-oriented experiences.
 
-<img align="right" alt="" height="300px" width="300px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJ1dzZtMDVrNzluanhxaW5ybTJqdWF1bDRubHNrc2trMGpuN2xnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0Jwn0I22a3XHgPaft/giphy.gif">
+<img align="right" alt="" height="300px" width="300px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hwYnA0YjI4a3kyZHhkeGh3MzJ4aXYzZzVsa25oa3lzODhoZXZxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 
 
