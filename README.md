@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+programmer;I+have+already+created+two+systems;For+the+Hospital+at+UFMG;+I+used+Python+and+HTML)](https://git.io/typing-svg)
 
-<img align="right" alt="Luis Tieres" height="300px" width="300px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hwYnA0YjI4a3kyZHhkeGh3MzJ4aXYzZzVsa25oa3lzODhoZXZxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
+<img align="right" alt="Luis Tieres" height="300px" width="300px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm15MTNhZ2IwZGM1NmE0eW93d2IzZ2xtcWdzamlhbDRteDl1cmJpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KDyxouSEfhOs9i4oru/giphy.gif">
 
 I am a certified **Electrotechnician** from [CEFET-MG](https://www.curvelo.cefetmg.br/) and currently pursuing my 8th semester in **Systems Engineering** at [UFMG](https://www.ufmg.br), one of Brazil's top universities.  
 
