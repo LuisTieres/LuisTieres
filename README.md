@@ -6,7 +6,7 @@
 
 I am a certified **Electrotechnician** from [CEFET-MG](https://www.curvelo.cefetmg.br/) and currently pursuing my 8th semester in **Systems Engineering** at [UFMG](https://www.ufmg.br), one of Brazil's top universities.  
 
-I also completed an **exchange program in Computer Science in Finland**, where I enhanced my analytical, technical, and programming skills through practical and research-oriented experiences.
+I also completed an **exchange program in Computer Science in Finland** at [kamk](https://kamk.fi/en/), where I enhanced my analytical, technical, and programming skills through practical and research-oriented experiences.
 
 ---
 
