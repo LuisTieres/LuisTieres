@@ -11,7 +11,7 @@ I also completed an **exchange program in Computer Science in Finland**, where I
 ---
 
 ## 🚀 Technologies I'm Learning
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> JavaScript, CSS, HTML, TypeScript
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Java, TypeScript, Python
 
 ---
 
@@ -22,7 +22,7 @@ I also completed an **exchange program in Computer Science in Finland**, where I
 ---
 
 ## 🛠 Languages & Technologies
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,py,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,ts)](https://skillicons.dev)
 
 ## 📚 Frameworks & Databases
 [![Frameworks](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
