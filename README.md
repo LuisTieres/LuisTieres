@@ -18,8 +18,7 @@ I also completed an **exchange program in Computer Science in Finland**, where I
 ## 🤠 Let's Connect!
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=blue&color=blue)](mailto:luistieres@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue&color=FFF)](https://www.linkedin.com/in/luis-tieres-16026019b/)
-(https://luistieres.github.io/portfolio/)
-
+[![Portfolio](https://luistieres.github.io/portfolio/assets/img/logo_luis.png)]([https://www.linkedin.com/in/luis-tieres-16026019b/](https://luistieres.github.io/portfolio/))
 ---
 
 ## 🛠 Languages & Technologies
