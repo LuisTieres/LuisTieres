@@ -41,4 +41,4 @@ I also completed an **exchange program in Computer Science in Finland**, where I
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%98%83+Feel+free+to+reach+me+out+!;%F0%9F%94%8E+Check+out+my+projects+!;%F0%9F%99%8B+Hasta+Luego+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%98%83+Feel+free+to+reach+me+out+!;%F0%9F%94%8E+Check+out+my+projects+!)](https://git.io/typing-svg)
