@@ -1,6 +1,6 @@
 # Hello! I'm Luis Tieres 💡
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+programmer;I+have+already+created+two+systems;+I+used+TypesCript+and+Java+PostgreSQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+programmer;I+have+already+created+some+systems;+I+used+Pyhton+TypesCript+and+Java+PostgreSQL+MySQL)](https://git.io/typing-svg)
 
 <img align="right" alt="Luis Tieres" height="300px" width="300px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWt5d3EwODExbnJvYm80a2FsdjRqdGh1MW9nanFhemZydDB6cDkzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif">
 
